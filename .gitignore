@@ -1,15 +1,11 @@
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-.venv/
-venv/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-
-# OS
+*.pyc
 .DS_Store
-Thumbs.db
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
