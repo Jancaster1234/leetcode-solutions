@@ -2,7 +2,7 @@
 27. Remove Element
 Difficulty: Easy
 Date Solved: 2026-02-09
-Link: https://leetcode.com/problems/remove-element/
+Link: https://leetcode.com/problems/remove-element?envType=study-plan-v2&envId=top-interview-150
 
 Problem Description:
 Given an integer array nums and an integer val, remove all occurrences of val
